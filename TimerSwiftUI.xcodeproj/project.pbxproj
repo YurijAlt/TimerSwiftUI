@@ -11,6 +11,7 @@
 		C423CECC26769D370052A0E2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C423CECB26769D370052A0E2 /* ContentView.swift */; };
 		C423CECE26769D380052A0E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C423CECD26769D380052A0E2 /* Assets.xcassets */; };
 		C423CED126769D380052A0E2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C423CED026769D380052A0E2 /* Preview Assets.xcassets */; };
+		C423CED92676A2C00052A0E2 /* TimeCounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = C423CED82676A2C00052A0E2 /* TimeCounter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		C423CECD26769D380052A0E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C423CED026769D380052A0E2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C423CED226769D380052A0E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C423CED82676A2C00052A0E2 /* TimeCounter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeCounter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				C423CEC926769D370052A0E2 /* TimerSwiftUIApp.swift */,
 				C423CECB26769D370052A0E2 /* ContentView.swift */,
+				C423CED82676A2C00052A0E2 /* TimeCounter.swift */,
 				C423CECD26769D380052A0E2 /* Assets.xcassets */,
 				C423CED226769D380052A0E2 /* Info.plist */,
 				C423CECF26769D380052A0E2 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C423CED92676A2C00052A0E2 /* TimeCounter.swift in Sources */,
 				C423CECC26769D370052A0E2 /* ContentView.swift in Sources */,
 				C423CECA26769D370052A0E2 /* TimerSwiftUIApp.swift in Sources */,
 			);
